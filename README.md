@@ -5,7 +5,7 @@ https://www.kaggle.com/competitions/digit-recognizer/overview
 
 ## Overview
 Competition: Classify handwritten digits (0-9) from the MNIST dataset
-Dataset: 28x28 pixel grayscale images of handwritten digits 
+Dataset: 28x28 pixel grayscale images of handwritten digits
 Goal: Develop a model to accurately predict the digit in each image
 
 ## Notebook Contents
@@ -22,3 +22,5 @@ Implement K-Fold Cross-Validation to:
 * Assess model performance more robustly
 * Reduce overfitting
 * Provide insights into model stability across different data subsets
+
+![alt text](https://github.com/mmmmpf/MNIST-digits/blob/main/download.png)
